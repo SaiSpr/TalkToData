@@ -9,7 +9,7 @@ PROMPT = """
 
 
 QUESTION_GENERATIVE_AI = "How many clients do I have?"
-API_KEY = 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
+API_KEY = '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'
 # KEY_OPENAI = "yourkey"
 
 # or you can use API_KEY = os.environ['OPENAI_API_KEY']
